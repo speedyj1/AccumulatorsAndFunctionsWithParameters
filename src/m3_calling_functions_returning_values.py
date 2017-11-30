@@ -31,7 +31,7 @@ def main():
     #       ** Ask a TA or your professor for help in that case. **
     # ------------------------------------------------------------------
 
-m3t_tester.main()
+    m3t_tester.main()
 
 
 def run_test_sum_of_digits():
@@ -334,3 +334,4 @@ def fancy_sums_of_digits(n):
 # ----------------------------------------------------------------------
 if __name__ == '__main__':
     main()
+
